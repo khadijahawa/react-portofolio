@@ -13,7 +13,7 @@ class Portfolio extends Component {
 
 
       return (
-        <div key={id++} className="columns ">
+        <div key={id++} className="column">
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }} >{projects.title}</div>
@@ -29,8 +29,8 @@ class Portfolio extends Component {
     return (
       <section id="portfolio" >
         <Fade left duration={1000} distance="40px">
-          <div className="row ">
-            <div >
+          <div >
+            <div className="row">
               <h1 >Check Out Some of My Works.</h1>
 
               <div
