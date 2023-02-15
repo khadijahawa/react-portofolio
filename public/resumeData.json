@@ -1,109 +1,128 @@
 {
   "main": {
-    "name":"Khadija Hawa",
-    "description":"I am a web development engineer and I use react and javascript to develop web pages. Here you can see my work and get to know me better",
-    "image":"profilepic.jpg",
-    "bio":"I am khadija Hawa an experienced front-end web design developer , I care deeply about creating world-class, useful, and beautiful products that help people and make a difference. I can be as involved in your project as you need me to be; from the seed of the idea, to sketches, creative direction, design, copywriting, system design, and even the front-end and WordPress build. ",
-    "contactmessage":"PLEASE FEEL FREE TO SEND ME A MESSAGE",
+    "name": "Khadija Hawa",
+    "description": " WELCOM TO MY PORTFOLIO\n I am a web development engineer and I use react and javascript to develop web pages. Here you can see my work and get to know me better",
+    "image": "profilepic.jpg",
+    "bio": "a passionate, curious, and ambitious front-end developer who is majoring in computer science at Istanbul Medeniyet University. My analytical skills allowed me to progress rapidly in this industry which requires much processing, exploring, analyzing, and coding to succeed.My past working experience revolves around building web and mobile-based applications using ReactJs, React-Native, Design libraries (MaterialUi, AntDesign, Bootstrap, etc..), Redux (Redux-Rematch, Redux-Thunk), and open-source libraries such as Axios.I am currently learning backend development I am always interested in working with passionate, smart-working, and hard-working teams. ",
+    "contactmessage": "PLEASE FEEL FREE TO SEND ME A MESSAGE",
     "email": "khadijahawa555@gmail.com",
     "phone": "+905538346931",
-    "github":"https://github.com/khadijahawa",
-    "linkedin":"https://www.linkedin.com/in/khadija-hawa-160158165/",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
-    "address":{
-      
-      "city":"Istanbul",
-      "state":"Turkey"
-      
+    "github": "https://github.com/khadijahawa",
+    "linkedin": "https://www.linkedin.com/in/khadija-hawa-160158165/",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "city": "Istanbul",
+      "state": "Turkey"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
-     
-     
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/khadija-hawa-160158165/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/khadija-hawa-160158165/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/khadija_hawa55/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/khadija_hawa55/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/khadijahawa",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/khadijahawa",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"istanbul medeniyet university",
-        "degree":"bachelor degree in computer science",
-        "graduated":"will be in 2023",
-        "description":"successfully finished my second year in Istanbul Medeniyet university with high grades and gained great knowledge about SQL, databases, signals, and networks"
+        "school": "istanbul medeniyet university",
+        "degree": "bachelor degree in computer science",
+        "graduated": "will be in 2023",
+        "description": "successfully finished my second year in Istanbul Medeniyet university with high grades and gained great knowledge about SQL, databases, signals, and networks"
       },
       {
-        "school":"Recoded team",
-        "degree":"Front-end development internship",
-        "graduated":"sep 2021",
-        "description":"learned a great deal about web design and web development and how to build a website from scratch"
+        "school": "Recoded team",
+        "degree": "Front-end development internship",
+        "graduated": "sep 2021",
+        "description": "learned a great deal about web design and web development and how to build a website from scratch"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Recoded",
-        "title":"intern",
-        "years":"March 2021 - Present"
-        
+        "company": "Recoded",
+        "title": "intern",
+        "years": "March 2021 - Present"
+      },
+      {
+        "company": "HatchApps",
+        "title": "Frontend Developer",
+        "years": "May 2022 - jan 2023",
+        "description": "as a front-end web developer, I am working on a No-code builder app that allows normal users to have the ability to make mobile apps without having coding experienc \n My tasks:\n -Developing and maintaining user interface.\n -Fixing bugs and testing usability\n -optimizing the user experience -working on responsiveness for mobile versions \n- managing software workflow-Using APIs and RESTful Services"
+      },
+      {
+        "company": "Zalisoft",
+        "title": "Frontend Developer",
+        "years": "Feb 2022 - May 2022 ",
+        "description": "we help businesses create their platforms and develop the website that serves their needs my role is to develop, design, test, and maintain the quality of the code throughout the process of building the website"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"ReactJS",
-        "level":"90%"
+        "name": "ReactJS",
+        "level": "100%"
       },
       {
-        "name":"HTML",
-        "level":"80%"
+        "name": "React Native",
+        "level": "100%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Redux",
+        "level": "90%"
       },
       {
-        "name":"javascript",
-        "level":"80%"
+        "name": "Typescript",
+        "level": "100%"
       },
       {
-        "name":"Java",
-        "level":"80%"
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Project maneger",
-        "category":"organizes the tasks and projects in a work environment between a manager and an employer, the best to be used with remote work",
-        "image":"01.jpg",
-        "url":"https://prm.netlify.app/"
+        "title": "Project maneger",
+        "category": "organizes the tasks and projects in a work environment between a manager and an employer, the best to be used with remote work",
+        "image": "01.jpg",
+        "url": "https://prm.netlify.app/"
       },
       {
-        "title":"Choose wisely",
-        "category":"a website that helps foreign students to apply to Turkish universities",
-        "image":"02.jpg",
-        "url":"https://choose-wisely-4aeef.web.app/"
+        "title": "Choose wisely",
+        "category": "a website that helps foreign students to apply to Turkish universities",
+        "image": "02.jpg",
+        "url": "https://choose-wisely-4aeef.web.app/"
       },
       {
-        "title":"mad libz",
-        "category":"Mad Libs is a phrasal template word game, the player can change the existed text as he/she wishes by adding verbs or adjectives",
-        "image":"03.jpg",
-        "url":"https://recoded-mad-libz-4.ayshesaflo.repl.co/"
+        "title": "mad libz",
+        "category": "Mad Libs is a phrasal template word game, the player can change the existed text as he/she wishes by adding verbs or adjectives",
+        "image": "03.jpg",
+        "url": "https://recoded-mad-libz-4.ayshesaflo.repl.co/"
       }
     ]
   }
