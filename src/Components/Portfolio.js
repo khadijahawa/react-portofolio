@@ -15,7 +15,6 @@ class Portfolio extends Component {
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{projects.title}</div>
             <div style={{ textAlign: "center" }}>
-              {" "}
               <a href={projects.url}>see the project from here</a>
             </div>
           </div>
@@ -29,7 +28,7 @@ class Portfolio extends Component {
           <div>
             <div className="row">
               <h1>Check Out Some of My Works.</h1>
-              <div id="portfolio-wrapper" className="bgrid-quarters  cf">
+              <div id="portfolio-wrapper" className="bgrid-quarters cf">
                 {projects}
               </div>
             </div>

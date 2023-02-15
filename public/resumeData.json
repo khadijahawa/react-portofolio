@@ -109,20 +109,32 @@
       {
         "title": "Project maneger",
         "category": "organizes the tasks and projects in a work environment between a manager and an employer, the best to be used with remote work",
-        "image": "01.jpg",
+        "image": "1.png",
         "url": "https://prm.netlify.app/"
       },
       {
         "title": "Choose wisely",
         "category": "a website that helps foreign students to apply to Turkish universities",
-        "image": "02.jpg",
+        "image": "2.png",
         "url": "https://choose-wisely-4aeef.web.app/"
       },
       {
         "title": "mad libz",
         "category": "Mad Libs is a phrasal template word game, the player can change the existed text as he/she wishes by adding verbs or adjectives",
-        "image": "03.jpg",
+        "image": "3.png",
         "url": "https://recoded-mad-libz-4.ayshesaflo.repl.co/"
+      },
+      {
+        "title": "To Do App",
+        "category": "A to do App designed in Figma and made in react native the app has 3 screens the first one is a simple to-do app the second one has data fetched from a public API and the third screen has each of the fetched data rendered in a single page with specific user's details ",
+        "image": "04.jpg",
+        "url": "https://github.com/khadijahawa/todoReactNative"
+      },
+      {
+        "title": "Paying It Forward",
+        "category": "An App that allows users to make donations with thier old properties for people are in need for them ",
+        "image": "05.jpg",
+        "url": "https://github.com/khadijahawa/paying-it-forward"
       }
     ]
   }
