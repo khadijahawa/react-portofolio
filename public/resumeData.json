@@ -135,6 +135,12 @@
         "category": "An App that allows users to make donations with thier old properties for people are in need for them ",
         "image": "05.jpg",
         "url": "https://khadijahawa.github.io/paying-it-forward/"
+      },
+      {
+        "title": "Madi Pitch Deck",
+        "category": "an app that is built for a startup in sweden called Madi to use in their entrepreneurial journey, the used language is React Native and it deployed by Expo",
+        "image": "06.jpg",
+        "url": "https://expo.dev/%40khadija_hawa/madi-pitch-deck?serviceType=classic&distribution=expo-go&releaseChannel=default"
       }
     ]
   }
